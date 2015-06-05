@@ -1,0 +1,23 @@
+{
+  "name": "Twitatron",
+  "version": "1.0.0",
+  "description": "Node web application that integrates with Twitter to provide an automated bookmark and read later service.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RO12/Twitatron.git"
+  },
+  "author": "Ron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RO12/Twitatron/issues"
+  },
+  "homepage": "https://github.com/RO12/Twitatron",
+  "dependencies": {
+    "compression": "^1.4.4",
+    "express": "^4.12.4"
+  }
+}
